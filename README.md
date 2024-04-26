@@ -10,11 +10,9 @@ As a Software Engineer, I am responsible for developing and implementing softwar
 <table align="center" border="2">
   <tr>
     <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="rakibkhanofficial"/></td>
-<td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="rakibkhanofficial" /></td> 
+
   </tr>
  <tr>
-
-    <td><img align="center" src="https://camo.githubusercontent.com/bad0399d95358a6e2d9bdddb483ba9b822d7d176aa521ea526aa2584425486f0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6f6e656461726b" alt="walkatatime"/></td>
  </tr>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial\&layout=compact" alt="walkatatime"/></td>
