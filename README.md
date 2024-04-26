@@ -14,6 +14,11 @@ As a Software Engineer, I am responsible for developing and implementing softwar
 <td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="rakibkhanofficial" /></td> 
   </tr>
  <tr>
+   # 🚀 Profile Views: 
+<!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" /> </p> -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shayanjamil519&label=Profile%20views&color=0e75b6&style=flat" alt="shayanjamil519" width="25%" height="30px" object-fit="contain" /> 
+</p>![Uploading image.png…]()
 
  </tr>
   <tr>
