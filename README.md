@@ -55,10 +55,6 @@ As a Full stack developer, I am responsible for developing and implementing soft
   <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="880" height="480" alt="HackerRank" />
 </a>
 
-## Visitors Count:
-<img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
-# 📊 GitHub Stats:
-<br>
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
 <br>
 <table align="center" border="2">
