@@ -55,15 +55,3 @@ As a Full stack developer, I am responsible for developing and implementing soft
   <img src="https://github.com/seniorfullstack-dev/portfolio_full_stack/blob/modify_layout_dev/1.png" width="880" height="480" alt="HackerRank" />
 </a>
 
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h2>
-<br>
-<table align="center" border="2">
-  <tr>
-    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="rakibkhanofficial"/></td>
-  </tr>
- <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&count_private=true&theme=radical&hide_border=true" alt="rakibkhanofficial"/></td>
- </tr>
- </tr>
-</table> 
-
